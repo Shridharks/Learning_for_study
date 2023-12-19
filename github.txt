@@ -13,4 +13,4 @@ whatsapp
 
 6. adding the audio and video call features
 
-7.Adding the status code feature
+7. Adding Profile picture.
